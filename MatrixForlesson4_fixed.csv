@@ -1,4 +1,4 @@
-﻿labels,n,Type_of_effect,r,Pvalue,IV_name,DV_name
+labels,n,Type_of_effect,r,Pvalue,IV_name,DV_name
 Latin America,1211,Pearson correlation,-0.1,0.05,Flextime,Turnover
 Asian Cluster,1211,Pearson correlation,-0.7,0.05,Flextime,Turnover
 Anglo Cluster,1491,Pearson correlation,-0.11,0.111,Flextime,Turnover
