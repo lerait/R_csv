@@ -1,8 +1,8 @@
-﻿AuthorName,Title,Type of research,Sample,Type of effect,Effect size,P-value,IV name,DV name
-Masuda 2012,Flexible Work Arrangements Availability,cross sectional survey,1211,Pearson correlation,-0.10,NA,Flextime,Turnover
-Masuda 2012,Flexible Work Arrangements Availability,cross sectional survey,1211,Pearson correlation,-0.70,0.05,Flextime,Turnover
-Masuda 2012,Flexible Work Arrangements Availability,cross sectional survey,1491,Pearson correlation,-0.11,0.11,Flextime,Turnover
-MCNALL 2010,"Flexible Work Arrangements, Job
-Satisfaction",cross sectional survey,220,Pearson correlation,-0.20,0.01,Flexible Work Arrangements,Turnover
-Timms 2015,"Flexible work arrangements, work engagement",cross sectional survey,823,Pearson correlation,0.11,0.00,Flexible Work Arrangements,Turnover
-"McNall, L. A., Masuda, A. D., & Nicklin, J. M. (2009).","Flexible Work Arrangements, Job Satisfaction, and Turnover Intentions: The Mediating Role of Work-to-Family Enrichment",cross sectional survey,220,Pearson correlation,-0.72,0.01,Flextime,Turnover
+AuthorName;Title;Type of research;Sample;Type of effect;Effect size;P-value;IV name;DV name
+Masuda, 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.10;NA;Flextime;Turnover
+Masuda, 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.70;0.05;Flextime;Turnover
+Masuda, 2012;Flexible Work Arrangements Availability;cross sectional survey;1491;Pearson correlation;-0.11;0.11;Flextime;Turnover
+MCNALL ,2010;"Flexible Work Arrangements; Job
+Satisfaction";cross sectional survey;220;Pearson correlation;-0.20;0.01;Flexible Work Arrangements;Turnover
+Timms, 2015;"Flexible work arrangements; work engagement";cross sectional survey;823;Pearson correlation;0.11;0.00;Flexible Work Arrangements;Turnover
+"McNall; L. A.; Masuda; A. D.; & Nicklin; J. M. (2009).";"Flexible Work Arrangements; Job Satisfaction; and Turnover Intentions: The Mediating Role of Work-to-Family Enrichment";cross sectional survey;220;Pearson correlation;-0.72;0.01;Flextime;Turnover
