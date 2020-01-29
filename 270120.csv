@@ -1,7 +1,7 @@
-﻿Coder,Author,Sample,Country,N,IV,DV ,Ivmeasure,Dvmeasure,r.xx,r.yy,Numerical data,r,Effect of exposure
-1,Masuda 2012,Employees ,USA,1211,Flextime,Turnover,Flextime,Turnover,,,,-0.1,Y
-2,Masuda 2012,Employees ,USA,1211,Flextime,Turnover,Flextime,Turnover,,,,-0.7,Y
-3,Masuda 2012,Employees ,USA,1491,Flextime,Turnover,Flextime,Turnover,,,,-0.11,Y
-4,MCNALL 2010,Employees ,USA,220,Flexible Work Arrangements,Turnover,Flexible Work Arrangements,Turnover,,,,-0.2,N
-5,Timms 2015,Employees ,USA,823,Flexible Work Arrangements,Turnover,Flexible Work Arrangements,Turnover,,,,0.11,N
-6,"Mcnall et al., 2009",Employees ,USA,220,Flextime,Turnover,Flextime,Turnover,,,,-0.72,N
+﻿Coder,Author,Sample,Country,N,IV,DV ,Ivmeasure,Dvmeasure,r.xx,r.yy,Numerical data,r,Effect of exposure,Design
+1,Masuda 2012,Employees ,USA,1211,Flextime,Turnover,Flextime,Turnover,,,,-0.1,Y,cross sectional survey
+2,Masuda 2012,Employees ,USA,1211,Flextime,Turnover,Flextime,Turnover,,,,-0.7,Y,cross sectional survey
+3,Masuda 2012,Employees ,USA,1491,Flextime,Turnover,Flextime,Turnover,,,,-0.11,Y,cross sectional survey
+4,MCNALL 2010,Employees ,USA,220,Flexible Work Arrangements,Turnover,Flexible Work Arrangements,Turnover,,,,-0.2,N,cross sectional survey
+5,Timms 2015,Employees ,USA,823,Flexible Work Arrangements,Turnover,Flexible Work Arrangements,Turnover,,,,0.11,N,cross sectional survey
+6,"Mcnall et al., 2009",Employees ,USA,220,Flextime,Turnover,Flextime,Turnover,,,,-0.72,N,cross sectional survey
