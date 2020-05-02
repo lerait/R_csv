@@ -1,4 +1,4 @@
-AuthorName;Title;Type of research;Sample;Type of effect;Effect size;IV name ;DV name
-Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.1;Flextime;Turnover
-Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.7;Flextime;Turnover
-Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1491;Pearson correlation;-0.11;Flextime;Turnover
+AuthorName;Title;Type of research;Sample;Type of effect;Effect size;IV_name ;DV_name;mor
+Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.3;Flextime;Turnover;1
+Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1211;Pearson correlation;-0.7;Flextime;Turnover;2
+Masuda 2012;Flexible Work Arrangements Availability;cross sectional survey;1491;Pearson correlation;-0.11;Flextime;Turnover;3
